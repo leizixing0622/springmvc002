@@ -7,9 +7,6 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by Administrator on 2017/11/20.
- */
 @Repository
 public class DepartmentDao {
     private static Map<Integer, Department> departments = null;

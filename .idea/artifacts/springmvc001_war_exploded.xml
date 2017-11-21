@@ -15,7 +15,7 @@
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.0.0.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.0.0.RELEASE" />
+          <element id="file-copy" path="E:/work/mvn_local_repo/org/springframework/spring-beans/4.0.0.Release/spring-beans-4.0.0.Release.jar" output-file-name="spring-beans-4.0.0.RELEASE.jar" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.0.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.0.0.RELEASE" />
